@@ -28,5 +28,5 @@ On the other hand Benjamin's exhibit talks about being a black person in the U.S
 Another thing that called my attention was the piece *Imagine a world without America* by Dread Scott –who has made an incredible [work](https://www.ted.com/talks/dread_scott_how_art_can_shape_america_s_conversation_about_freedom?language=en#t-260657) on re-imagining the symbols beneath the U.S. flag– which explicitly reflects how U.S. citizens talk of America as if they were América, forgetting an entire continent to the South. I think a real revolutionary exercise to deconstruct that symbology will be to recognize that América is not the U.S.
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/2020x1160_fit/599f12405a4091c6048b4568/a9733fa55b9985b6171183274828d38f.jpeg" align="middle" width="70%">
+  <img src="https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/2020x1160_fit/599f12405a4091c6048b4568/a9733fa55b9985b6171183274828d38f.jpeg" align="middle" width="60%">
 </p>
