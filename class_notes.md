@@ -15,3 +15,7 @@
   * homosexuality and being black
 * [Yasumasa Morimura](https://en.wikipedia.org/wiki/Yasumasa_Morimura)
 * Hannah Wilke [1](https://en.wikipedia.org/wiki/Hannah_Wilke) [2](https://timeline.com/hannah-wilke-labial-art-97c5bc488a67)
+* [Carolee Schneemann](http://www.caroleeschneemann.com/works.html)
+* [Adrian Piper](https://en.wikipedia.org/wiki/Adrian_Piper)
+  * take a look in terms of body
+* "we are performative bodies"
