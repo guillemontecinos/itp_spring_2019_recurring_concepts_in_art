@@ -9,9 +9,9 @@
   * keep the idea of "how does something mean"
   * exploration of the body in a tension between natural and artificial
   * feminist representation of the body
-* [James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) [2](https://www.youtube.com/watch?v=cplZdcp0fQY)
+* James Baldwin [1](https://en.wikipedia.org/wiki/James_Baldwin) [2](https://www.youtube.com/watch?v=cplZdcp0fQY)
   * Take a look of his work because of the role of black gay male in the 20th century
   * body exploration
   * homosexuality and being black
 * [Yasumasa Morimura](https://en.wikipedia.org/wiki/Yasumasa_Morimura)
-* [Hannah Wilke](https://en.wikipedia.org/wiki/Hannah_Wilke) [2](https://timeline.com/hannah-wilke-labial-art-97c5bc488a67)
+* Hannah Wilke [1](https://en.wikipedia.org/wiki/Hannah_Wilke) [2](https://timeline.com/hannah-wilke-labial-art-97c5bc488a67)
