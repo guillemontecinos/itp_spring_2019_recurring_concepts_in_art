@@ -14,7 +14,7 @@ And this can be used to understand how western culture has told it's own history
 
 Finally, perception is something we can't scape from. But something interesting to explore is: if perception is a biased understanding of the world, western perception is a biased understanding of a biased understanding of the world. So what happen with other perceptions? For example, what happened with Mapuche people's perception in southern Chile after Spanish came and imposed western catholicism? How that perception can talk with western perception? How perception of African tribes dispute the conceptual territory? I think I can't answer this question right now, but I hope I'll do during the semester.
 
-# Week 3 - The Body/Identity
+## Week 3 - The Body/Identity
 From all the galleries suggested for this class two strongly called my attention: Paul Stephen Benjamin's *Pure, Very, New* at Marianne Boesky Gallery and Joan Semmel's *A Necessary Elaboration* at Alexander Gray's. Both talk about the body as social subject that can be valued or rejected by the others but from different perspectives.
 
 Joan Semmel paints the nude body of an old women in different poses using an amazing color palette to configure spaces that highlight the body and it's beauty no matter the age. What mostly called my attention of this series of paintings was the smart use of color.
@@ -30,3 +30,8 @@ Another thing that called my attention was the piece *Imagine a world without Am
 <p align="center">
   <img src="https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/2020x1160_fit/599f12405a4091c6048b4568/a9733fa55b9985b6171183274828d38f.jpeg" align="middle" width="60%">
 </p>
+
+## Week 4 - Art and technology
+From the exhibit *Programmed: Rules, Codes, and Choreographies in Art* I'd like to highlight some pieces from the *right* side of the gallery, which corresponded to the *older* or more historical pieces. These are the more conceptual artworks, mostly focused on the *instruction* or the *list of tasks* as an artistic gesture. From them, *Dance #4* by Lucinda Childs, Philip Glass, and Sol LeWitt called powerfully my attention, because in that piece the instruction is not just used as a theoretical framework to guide interpreters, but as a physical path that induces dancers to move in the space –since instructions are mapped. This piece dialogues with a movement of instruction-based artworks and evokes me the sound work *Pendulum Music* by Steve Rich which –using other medium 11 years before– uses instructions as an open and creative element in performance.
+
+Joan Truckenbrod's *Coded Algorithmic Drawings* and Frederick Hammersley's *No Title* called my attention as well, because they belong to a wave of coders who started exploring the usage of logic instructions of primitive coding languages to convey creative compositions, as Vera Molnàr and John Whitney, among others. As well as these key historical algorithmic I really loved Casey Reas' pieces, both because they spectacularity and aesthetic –which I really engage with– and because of his preponderance as a Open Source Software activist.
