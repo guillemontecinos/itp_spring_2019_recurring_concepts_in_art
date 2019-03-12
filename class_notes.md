@@ -47,4 +47,14 @@
 * "the loom was the first computer"
 * Vera Molnar: the imaginary machine, *thinking as a machine*
 * [Nam June Paik](https://en.wikipedia.org/wiki/Nam_June_Paik)
-* 
+
+## Week 5
+* [Sol LeWitt](https://en.wikipedia.org/wiki/Sol_LeWitt)
+* [Agnes Martin](https://en.wikipedia.org/wiki/Agnes_Martin)
+* [Frank Stella](https://en.wikipedia.org/wiki/Frank_Stella)
+* [Fin de Siècle II Conservation - Nam June Paik](https://www.youtube.com/watch?v=IucNWkHI45E)
+* [David Hammons](https://en.wikipedia.org/wiki/David_Hammons)
+* [Pan-African flag](https://en.wikipedia.org/wiki/Pan-African_flag)
+* [Walker Evans](https://en.wikipedia.org/wiki/Walker_Evans)
+* [Jasper Johns](https://en.wikipedia.org/wiki/Jasper_Johns)
+* [Ubu web](http://www.ubu.com/)
