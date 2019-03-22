@@ -49,13 +49,13 @@ Duchamp approached this question more than 100 years ago, when through the gestu
 *Hélio per Lucem* explores the interaction between light and physical bodies in space –through refraction and reflection– and the underlying information attached to this process.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_spring_2019_recurring_concepts_in_art/blob/master/final/documentation/helio1.jpg" align="middle" width="60%">
+  <img src="https://github.com/guillemontecinos/itp_spring_2019_recurring_concepts_in_art/blob/master/final/documentation/helio1.jpg" align="middle" width="70%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_spring_2019_recurring_concepts_in_art/blob/master/final/documentation/helio2.jpg" align="middle" width="60%">
+  <img src="https://github.com/guillemontecinos/itp_spring_2019_recurring_concepts_in_art/blob/master/final/documentation/helio2.jpg" align="middle" width="70%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_spring_2019_recurring_concepts_in_art/blob/master/final/documentation/helio4.jpg" align="middle" width="60%">
+  <img src="https://github.com/guillemontecinos/itp_spring_2019_recurring_concepts_in_art/blob/master/final/documentation/helio4.jpg" align="middle" width="70%">
 </p>
